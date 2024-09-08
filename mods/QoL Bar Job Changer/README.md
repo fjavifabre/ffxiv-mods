@@ -17,4 +17,4 @@ H4sIAAAAAAAACs1X0U7bMBT9lcjZY2BN0jLIGxQNtlGGKBsPgwc3sRqviV05yRBC/PuO3TZlwmGR3Ada
 
 ## Icons
 
-Download the [ZIP file](../textures/qol-bar-icons.zip)
+Download the [ZIP file](../../textures/qol-bar-icons.zip)
