@@ -17,4 +17,7 @@ H4sIAAAAAAAACs1X0U7bMBT9lcjZY2BN0jLIGxQNtlGGKBsPgwc3sRqviV05yRBC/PuO3TZlwmGR3Ada
 
 ## Icons
 
-Download the [ZIP file](../../textures/qol-bar-icons.zip)
+You can choose between 2 icon styles:
+
+- [Transparent background](../../textures/qol-bar-icons.zip)
+- [Black square background](../../textures/qol-bar-icons-background.zip)
